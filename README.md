@@ -1,11 +1,11 @@
-**Data Cleaning & Transformation in Excel** 
+## Data Cleaning & Transformation in Excel
 
 Transformed complex, unformatted raw datasets into structured, accurate, and analysis-ready formats — ensuring data integrity and supporting reliable reporting/MIS processes.
 
 **Objective:**
 Real-world data is messy. This project demonstrates the full data cleaning pipeline in Microsoft Excel — from identifying quality issues in raw data to delivering a structured, professional dataset ready for analysis and reporting.
 
-## Before vs After:
+**Before vs After:**
 - Date errors (######) → Corrected date formats
 - ALL CAPS text → Standardized using PROPER(), UPPER(), LOWER()
 - #DIV/0! errors → Identified and resolved
